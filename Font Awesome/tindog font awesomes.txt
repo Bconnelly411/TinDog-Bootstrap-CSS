@@ -1,0 +1,14 @@
+check circle
+<i class="fa-solid fa-circle-check"></i>
+
+bullseye
+<i class="fa-solid fa-bullseye"></i>
+
+heart
+<i class="fa-solid fa-heart"></i>
+
+
+section 6: introduction to bootcamp
+	the bootstrap navigation bar
+
+
